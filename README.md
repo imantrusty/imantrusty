@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imantrusty)](https://github.com/imantrusty/github-readme-stats)
 <!--
 **imantrusty/imantrusty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
