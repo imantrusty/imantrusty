@@ -5,6 +5,7 @@ ________________________
 
 I am a self-taught digital illustrator and an entry-level web developer/designer. I'm currently a full-stack engineer student at [Qwasar Silicon Valley](https://qwasar.io/), and have just recently begun my software engineering journey, working towards my second bachelor's degree. 
 
+![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 ## 👀 Here are some of the main languages I use on GitHub:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imantrusty&layout=pie)](https://github.com/imantrusty/github-readme-stats&theme=dracula)
 
