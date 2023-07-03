@@ -18,6 +18,7 @@ I am a self-taught digital illustrator and an entry-level web developer/designer
 ‣ HTML, CSS, JavaScript <br>
 ‣ Python <br>
 ‣ C#, C <br>
+‣ AWS Developer <br>
 ‣ SQL, Data Algorithms <br>
 
 ## My GitHub Stats 📈
