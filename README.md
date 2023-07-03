@@ -26,10 +26,10 @@ I am a self-taught digital illustrator and an entry-level web developer/designer
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imantrusty&layout=compact)](https://github.com/imantrusty)
 
 ## What I'm currently working on 💬
-‣ Qwasar - Season 1 Arc 01 C bootcamp, ex14 - creating an my_isalpha function (sorta stuck) <br>
-‣ WGU - Scripting and programming foundations <br>
-‣ WebDev Bootcamp - Python fundamentals <br>
-‣ CodeAcademy - SQL, Java, C fundamentals
+‣ Qwasar - Season 1 Arc 01 C bootcamp, ex14 - creating an my_isalpha function. <br>
+‣ WGU - Intro to IT. <br>
+‣ WebDev Bootcamp - Python fundamentals. <br>
+‣ CodeAcademy - SQL, Java, C fundamentals.
 
 
 ## Let's connect! 🍵 
