@@ -6,14 +6,14 @@ I'm Iman, welcome to my GitHub profile 💗🐧
 
 I am a self-taught digital illustrator and an entry-level web developer/designer. I'm currently a full-stack engineer student at [Qwasar Silicon Valley](https://qwasar.io/), and have just recently begun my software engineering journey, working towards my second bachelor's degree. 
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imantrusty&layout=compact)](https://github.com/imantrusty)
 ### What I'm currently learning 🦉
 ‣ Java <br>
 ‣ HTML, CSS, JavaScript <br>
 ‣ Python <br>
 ‣ C#, C <br>
 ‣ SQL, Data Algorithms <br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imantrusty&layout=compact)](https://github.com/imantrusty)
 
 ## Let's connect 🍵 
 ‣ Your future employee on [LinkedIn](https://www.linkedin.com/in/imanpurnell/) <br>
