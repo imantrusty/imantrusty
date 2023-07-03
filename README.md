@@ -5,12 +5,12 @@
 # I'm Iman, welcome to my GitHub profile 💗🐧~
 
 I am a self-taught digital illustrator and an entry-level web developer/designer. I'm currently a full-stack engineer student at [Qwasar Silicon Valley](https://qwasar.io/), and have just recently begun my software engineering journey, working towards my second bachelor's degree. In my GitHub you will find: <br>
-▫ Qwasar Silicon Valley Projects<br>
-▫ Game projects<br>
-▫ Web Design<br>
-▫ Web Development<br>
-▫ Backend Apps<br>
-▫ Interactive Web Content<br>
+⦾ Qwasar Silicon Valley Projects<br>
+⦾ Game projects<br>
+⦾ Web Design<br>
+⦾ Web Development<br>
+⦾ Backend Apps<br>
+⦾ Interactive Web Content<br>
 
 
 ## What I'm currently learning 🦉
