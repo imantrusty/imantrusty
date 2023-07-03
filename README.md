@@ -27,7 +27,7 @@ I am a self-taught digital illustrator and an entry-level web developer/designer
 
 ## Let's connect! 🍵 
 ‣ Your future employee 👩‍💻 on [LinkedIn](https://www.linkedin.com/in/imanpurnell/) <br>
-‣ Your future bff 👯‍♀️ to discuss tech, art, and anime on [discord](689865408597327966) <br>
+‣ Your future bff 👯‍♀️ to discuss tech, art, and anime on Discord @kvngnami <br>
 ‣ And of course, my [Linktree](https://linktr.ee/imanspurnell), feel free to poke around on my socials 💓 <br>
 
 
