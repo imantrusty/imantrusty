@@ -4,7 +4,13 @@
 
 # I'm Iman, welcome to my GitHub profile 💗🐧~
 
-I am a self-taught digital illustrator and an entry-level web developer/designer. I'm currently a full-stack engineer student at [Qwasar Silicon Valley](https://qwasar.io/), and have just recently begun my software engineering journey, working towards my second bachelor's degree. 
+I am a self-taught digital illustrator and an entry-level web developer/designer. I'm currently a full-stack engineer student at [Qwasar Silicon Valley](https://qwasar.io/), and have just recently begun my software engineering journey, working towards my second bachelor's degree. In my GitHub you will find: <br>
+☑ Qwasar Silicon Valley Projects<br>
+☑ Game projects<br>
+☑ Web Design<br>
+☑ Web Development<br>
+☑ Backend Apps<br>
+☑ Interactive Web Content<br>
 
 
 ## What I'm currently learning 🦉
@@ -21,7 +27,7 @@ I am a self-taught digital illustrator and an entry-level web developer/designer
 ## What I'm currently working on 💬
 ‣ Qwasar - Season 1 Arc 01 C bootcamp, ex14 - creating an my_isalpha function (sorta stuck) <br>
 ‣ WGU - Scripting and programming foundations <br>
-‣ WebDev Bootcamp made by [Timothy Grant](https://www.linkedin.com/in/timothy-grant-80909317b/) - Python fundamentals
+‣ WebDev Bootcamp - Python fundamentals <br>
 ‣ CodeAcademy - SQL, Java, C fundamentals
 
 
