@@ -9,16 +9,16 @@ I am a self-taught digital illustrator and an entry-level web developer/designer
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imantrusty&layout=pie)](https://github.com/imantrusty/github-readme-stats&theme=dracula)
 
 ### What I'm currently learning 🦉
-‣ Java
-‣ HTML, CSS, JavaScript
-‣ Python
-‣ C#, C
-‣ SQL, Data Algorithms 
+‣ Java <br>
+‣ HTML, CSS, JavaScript <br>
+‣ Python <br>
+‣ C#, C <br>
+‣ SQL, Data Algorithms <br>
 
 ## Let's connect 🍵 
-‣ Your future employee on [LinkedIn](https://www.linkedin.com/in/imanpurnell/)
-‣ Your future buddy to discuss tech, art, and anime on [discord](689865408597327966)
-‣ And of course, my [Linktree](https://linktr.ee/imanspurnell), feel free to poke around on my socials 💓
+‣ Your future employee on [LinkedIn](https://www.linkedin.com/in/imanpurnell/) <br>
+‣ Your future buddy to discuss tech, art, and anime on [discord](689865408597327966) <br>
+‣ And of course, my [Linktree](https://linktr.ee/imanspurnell), feel free to poke around on my socials 💓 <br>
 
 
 
