@@ -13,12 +13,16 @@ I am a self-taught digital illustrator and an entry-level web developer/designer
 ‣ C#, C <br>
 ‣ SQL, Data Algorithms <br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imantrusty&layout=compact)](https://github.com/imantrusty)
+
 ## Let's connect 🍵 
 ‣ Your future employee on [LinkedIn](https://www.linkedin.com/in/imanpurnell/) <br>
 ‣ Your future buddy to discuss tech, art, and anime on [discord](689865408597327966) <br>
 ‣ And of course, my [Linktree](https://linktr.ee/imanspurnell), feel free to poke around on my socials 💓 <br>
 
 
+
+badges by markdown-badges <br>
 
 <!--
 **imantrusty/imantrusty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
