@@ -17,19 +17,19 @@ I am a self-taught digital illustrator and an entry-level web developer/designer
 ‣ Java <br>
 ‣ HTML, CSS, JavaScript <br>
 ‣ Python <br>
-‣ C#, C <br>
-‣ AWS Developer <br>
+‣ C#, C, C++ <br>
+‣ AWS Developer/Cloud <br>
 ‣ SQL, Data Algorithms <br>
+‣ API Design <br>
 
 ## My GitHub Stats 📈
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=imantrusty)](https://github.com/imantrusty)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imantrusty&layout=compact)](https://github.com/imantrusty)
 
 ## What I'm currently working on 💬
-‣ Qwasar - Season 1 Arc 01 C bootcamp, ex14 - creating an my_isalpha function. <br>
-‣ WGU - Intro to IT. <br>
+‣ Qwasar - Season 1 Arc 01 C bootcamp <br>
+‣ WGU - Intro to IT, Web Development Foundations. <br>
 ‣ WebDev Bootcamp - Python fundamentals. <br>
-‣ CodeAcademy - SQL, Java, C fundamentals.
 
 
 ## Let's connect! 🍵 
