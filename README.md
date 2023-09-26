@@ -27,7 +27,7 @@ I am a self-taught digital illustrator and an entry-level web developer/designer
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imantrusty&layout=compact)](https://github.com/imantrusty)
 
 ## What I'm currently working on 💬
-‣ Qwasar - Season 1 Arc 01 C bootcamp <br>
+‣ Qwasar - Season 1 Arc 01 Quest 02 C bootcamp <br>
 ‣ WGU - Intro to IT, Web Development Foundations. <br>
 ‣ WebDev Bootcamp - Python fundamentals. <br>
 
