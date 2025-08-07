@@ -1,7 +1,3 @@
-# Hey there stranger! . ݁₊ ⊹ . ݁˖ . ݁
-![18247709_v1013-p-0028a](https://github.com/user-attachments/assets/3a576949-2908-44d0-a957-01762e74adb8)
-
-
 # I'm Iman, welcome to my GitHub profile ദ്ദി ˉ͈̀꒳ˉ͈́ )✧
 
 I am a Senior Network Engineer with a taste for Application Security and Software Engineering. In my GitHub you will find: <br>
