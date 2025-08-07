@@ -19,10 +19,10 @@ I am a Senior Network Engineer with a taste for Application Security and Softwar
 
 
 ## What I'm currently working on 💬
-◦ Bank Application from complete scratch
-◦ PortSwigger/Burp Suite proficiency
-◦ Certified Application Security practices
-◦ PJPT via TCM Security
+◦ Bank Application from complete scratch <br>
+◦ PortSwigger/Burp Suite proficiency <br>
+◦ Certified Application Security practices <br>
+◦ PJPT via TCM Security <br>
 
 ## My GitHub Stats 📈
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=imantrusty)](https://github.com/imantrusty)
@@ -33,6 +33,7 @@ I am a Senior Network Engineer with a taste for Application Security and Softwar
 ♡ Your future employee 👩‍💻 on [LinkedIn](https://www.linkedin.com/in/imanpurnell/) <br>
 ♡ And of course, my [Linktree](https://linktr.ee/imanspurnell), feel free to poke around! 💓 <br>
 
+![4102879_971](https://github.com/user-attachments/assets/cb6aeb75-e66f-48fd-88d3-9f7d19e0010b)
 
 
 badges by markdown-badges <br>
