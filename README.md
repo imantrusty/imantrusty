@@ -10,18 +10,18 @@
 
 - **🔐 Secure Banking App (Node.js, SQLite)**  
   Full-stack app with authentication, session handling, cookie management, and STIG-based security.  
-  [View Repository (Work in Progress)](#)  
+  [View Repository (Work in Progress)](#creative-bank)  
 
 - **🛡️ Secure Backend Authorization Service (JavaScript)**  
   Custom backend auth service with session handling & peer-reviewed security features.  
-  [View Repository](#https://github.com/imantrusty/my_first_backend/tree/main/my_first_backend)  
+  [View Repository](#my_first_backend)  
 
 - **📚 Learning Center (FileMaker)**  
   Admin-focused device management app with secure data entry & access control.   
 
 - **🎬 Netflix Clone (React, Firebase, TMDB API)**  
   Responsive UI with API integration, dynamic movie data, and interactive media playback.  
-  [View Repository](#https://github.com/imantrusty/netflix-clone)  
+  [View Repository](#netflix-clone)  
 
 ---
 
