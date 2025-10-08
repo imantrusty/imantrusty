@@ -3,6 +3,7 @@
 🔹 **Senior Network Engineer | Software & Security Enthusiast | Active Secret Clearance**  
 🔹 Passionate about building **secure full-stack applications** and bridging the gap between **network engineering and software development**.  
 🔹 Currently focused on **secure coding, STIG compliance, and DevSecOps practices**.  
+🔹 Currently working on: **developing a Secure Flight Operations Management System — it handles mission scheduling, flight path generation, and passenger logistics with STIG-compliant security and encrypted communication between the front and backend**.  
 
 ---
 
@@ -14,7 +15,7 @@
 
 - **🛡️ Secure Backend Authorization Service (JavaScript)**  
   Custom backend auth service with session handling & peer-reviewed security features.  
-  [View Repository](https://github.com/imantrusty/my_first_backend)  
+  [View Repository (VIP)](https://github.com/imantrusty/my_first_backend)  
 
 - **📚 Learning Center (FileMaker)**  
   Admin-focused device management app with secure data entry & access control.   
