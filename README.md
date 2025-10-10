@@ -3,7 +3,7 @@
 🔹 **Senior Network Engineer | Software & Security Enthusiast | Active Secret Clearance**  
 🔹 Passionate about building **secure full-stack applications** and bridging the gap between **network engineering and software development**.  
 🔹 Currently focused on **secure coding, STIG compliance, and DevSecOps practices**.  
-🔹 Currently working on: **developing a Secure Flight Operations Management System — it handles mission scheduling, flight path generation, and passenger logistics with STIG-compliant security and encrypted communication between the front and backend**.  
+🔹 Currently working on: Developing a Secure Flight Trajectory System that implements **Application Security** and **Development STIG controls** for secure data processing and transmission.  
 
 ---
 
