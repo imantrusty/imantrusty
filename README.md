@@ -38,8 +38,8 @@
 ----
 
 ## My GitHub Stats 📈
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=imantrusty)](https://github.com/imantrusty)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imantrusty&layout=compact)](https://github.com/imantrusty)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imantrusty&show_icons=true&theme=dracula)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imantrusty&layout=donut-vertical&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
