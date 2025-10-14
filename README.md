@@ -3,6 +3,7 @@
 🔹 **Senior Network Engineer | Software & Security Enthusiast | Active Secret Clearance**  
 🔹 Passionate about building **secure full-stack applications** and bridging the gap between **network engineering and software development**.  
 🔹 Currently focused on **secure coding, STIG compliance, and DevSecOps practices**.  
+
 🔹 Currently working on: Developing a Secure Flight Trajectory System that implements **Application Security** and **Development STIG controls** for secure data processing and transmission.  
 
 ---
@@ -15,10 +16,11 @@
 
 - **🛡️ Secure Backend Authorization Service (JavaScript)**  
   Custom backend auth service with session handling & peer-reviewed security features.  
-  [View Repository (VIP)](https://github.com/imantrusty/my_first_backend)  
+  [View Repository](https://github.com/imantrusty/my_first_backend)  
 
-- **📚 Learning Center (FileMaker)**  
-  Admin-focused device management app with secure data entry & access control.   
+- **📚 Trainer App**  
+  Java-based personal training system that demonstrates Object-Oriented Programming (OOP) and Data Structures & Algorithms (DSA) concepts in action.<br>
+  [View Repository](https://github.com/imantrusty/trainer-app-dsa)  
 
 - **🎬 Netflix Clone (React, Firebase, TMDB API)**  
   Responsive UI with API integration, dynamic movie data, and interactive media playback.  
@@ -45,7 +47,7 @@
 ## 📌 About Me  
 
 - 🌱 Currently pursuing **PJPT (Practical Junior Penetration Tester)** & **Certified AppSec Practitioner** certifications  
-- 🔒 Exploring ways to merge **network engineering expertise** with **software security**  
+- 🔒 Exploring ways to merge **application security** with **software security**  
 - 🤝 Open to collaborating on **secure coding projects, backend services, and DevSecOps tools**  
 
 ---
