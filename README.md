@@ -1,7 +1,7 @@
 # 💻 Hi, I’m Iman Purnell!  
 
-🔹 **Senior Network Engineer | Software & Security Enthusiast | Active Secret Clearance**  
-🔹 Passionate about building **secure full-stack applications** and bridging the gap between **network engineering and software development**.  
+🔹 **Senior Network Specialist | Software & Security Enthusiast | Active Secret Clearance**  
+🔹 Enthusiastic about building **secure full-stack applications** and bridging the gap between **network engineering and software development**.  
 🔹 Currently focused on **secure coding, STIG compliance, and DevSecOps practices**.  
 
 🔹 Currently working on: Developing a Secure Flight Trajectory System that implements **Application Security** and **Development STIG controls** for secure data processing and transmission.  
@@ -36,13 +36,6 @@
 **Cloud & Systems:** Azure, VMware, Git, Linux (Kali, Ubuntu)  
 
 ----
-
-## My GitHub Stats 📈
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imantrusty&show_icons=true&theme=dracula)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imantrusty&layout=donut-vertical&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-
----
 
 ## 📌 About Me  
 
