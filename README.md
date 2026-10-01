@@ -1,6 +1,6 @@
 # 💻 Hi, I’m Iman Purnell!  
 
-🔹 **Senior Network Specialist | Software & Security Enthusiast | Active Secret Clearance**  
+🔹 **Senior Network Specialist | Continuous Learner | Active Secret Clearance | SY0-701 Certified**  
 🔹 Enthusiastic about building **secure full-stack applications** and bridging the gap between **network engineering and software development**.  
 🔹 Currently focused on **secure coding, STIG compliance, and DevSecOps practices**.  
 
@@ -39,7 +39,7 @@
 
 ## 📌 About Me  
 
-- 🌱 Currently pursuing **PJPT (Practical Junior Penetration Tester)** & **Certified AppSec Practitioner** certifications  
+- 🌱 Currently pursuing **CAPen** certification  
 - 🔒 Exploring ways to merge **application security** with **software security**  
 - 🤝 Open to collaborating on **secure coding projects, backend services, and DevSecOps tools**  
 
@@ -48,7 +48,6 @@
 ## 📫 Connect  
 
 - [LinkedIn](http://linkedin.com/in/imanpurnell)  
-- 📧 **imanspurnell@gmail.com**  
 
 ---
 
